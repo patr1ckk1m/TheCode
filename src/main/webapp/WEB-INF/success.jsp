@@ -4,14 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Secret Code</title>
+<title>The Bushido Code</title>
 </head>
 <body>
-	<h3>${errors }</h3>
-	<h3>What is the code?</h3>
-	<form action = "/codecheck" method = "POST">
-		<input type = "text" name = "code">
-		<input type = "submit" value = "Try Code">
-	</form>
+	<ul>
+		<li>Loyalty</li>
+		<li>Courage</li>
+		<li>Veracity</li>
+		<li>Compassion</li>
+		<li>Honor</li>
+	</ul>
 </body>
 </html>
